@@ -8,6 +8,8 @@ NP-TCMtarget is a network pharmacology platform for exploring mechanisms of acti
 Requirements and Installation
 -----------------------------
 ### Create and activate Python environment
-for NP-TCMtarget, the python 
-
-
+for NP-TCMtarget, the python version need is over 3.8. if you have installed Python3.6 or Python3.7, consider installing Anaconda , and then you can create a new environment.
+```
+conda create -n npTCMtarget python=3.8
+```
+### Install pytorch
